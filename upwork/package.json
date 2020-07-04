@@ -1,0 +1,14 @@
+{
+  "id": "upwork",
+  "name": "UpWork",
+  "version": "0.1.00",
+  "description": "UpWork Messages",
+  "main": "index.js",
+  "author": "Azin Mehrnoosh <azinicus@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://www.upwork.com/messages/rooms/",
+    "hasNotificationSound": true,
+    "disablewebsecurity": true
+  }
+}
