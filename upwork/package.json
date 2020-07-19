@@ -6,6 +6,7 @@
   "main": "index.js",
   "author": "Azin Mehrnoosh <azinicus@gmail.com>",
   "license": "MIT",
+  "repository": "https://github.com/azinicus/franz-upwork-recipe",
   "config": {
     "serviceURL": "https://www.upwork.com/messages/rooms/",
     "hasNotificationSound": true,
